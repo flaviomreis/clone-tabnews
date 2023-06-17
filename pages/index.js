@@ -1,6 +1,9 @@
 function Home() {
     return (
-        <h1>Painel para Controle de Logins de Curso EaD no Moodle</h1>
+        <div>
+            <h1>Controle de Usuários de Curso EaD</h1>
+            <p>Faça login para poder controlar os usuários de um curso EaD da sua instituição.</p>
+        </div>
     )
 }
 
